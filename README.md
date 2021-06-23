@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dinesh31946
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning php and dotnet core web api
+- 🌱 I’m currently learning php and laravel framework
 - 💞️ I’m looking to collaborate on php projects
 - 📫 I am reachable at gosavidinesh54@gmail.com 
 
