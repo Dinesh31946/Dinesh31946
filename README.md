@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dinesh31946
+- 👋 Hi, I’m Dinesh Narayan Gosavi
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning php and laravel framework
 - 💞️ I’m looking to collaborate on php projects
